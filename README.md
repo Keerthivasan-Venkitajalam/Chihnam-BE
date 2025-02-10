@@ -1,6 +1,6 @@
-# SignBridge Backend
+# Chihnam Backend
 
-SignBridge is an AI-powered real-time sign language translator. This backend provides Speech-to-Text (ASR) and Text-to-Speech (TTS) functionalities.
+Chihnam is an AI-powered real-time sign language translator. This backend provides Speech-to-Text (ASR) and Text-to-Speech (TTS) functionalities.
 
 ## 📌 Features
 - 🎙️ **Speech Recognition** using OpenAI Whisper and Wav2Vec2
